@@ -1,0 +1,16 @@
+1. The constants file stores the variables
+2. The __init__ file is a package file
+3. The booking file stores the methods that will be called later
+    # The booking class inherits from webdriver.Chrome
+    # Chrome has to start with a capital letter
+ 4. super(Booking, self).__init__() initiates an instance of  webdriver.chrome, this enables other methods(functions)
+    to access the methods of the webdriver(get, find e.t.c)
+ 5. Create a function land_first_page that opens the url using the get method
+ 6. Add a context manager to the run file using the with statement
+    # add an exit function to the class
+    # the exit function works as a way to test the if the program is working
+    # it shuts down(tear down) chrome after launching it
+    # add a new attribute that defines tear down in the init function and assign it as False
+    # add an if statement inside the exit function that executes when teardown is True
+    # if you want to tear down, pass an argument to the run file inside the Booking method, specifying teardown as True
+    # add tear_down=True if you want  to close the browser after loading
