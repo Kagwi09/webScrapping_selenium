@@ -14,3 +14,6 @@
     # add an if statement inside the exit function that executes when teardown is True
     # if you want to tear down, pass an argument to the run file inside the Booking method, specifying teardown as True
     # add tear_down=True if you want  to close the browser after loading
+ 7. Add and implicit wait clause in the constructor (init) method and maximize window function
+ 8. Create a method (change_currency) that id's the buttom that changes the currency
+    #
