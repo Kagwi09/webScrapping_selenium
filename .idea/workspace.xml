@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d6f4ec-dbc5-48a1-8cdd-259ccdf0ba8a" name="Changes" comment="developed a basic bot that gets a url and tested it using a context manager">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="60d6f4ec-dbc5-48a1-8cdd-259ccdf0ba8a" name="Changes" comment="defined a method for changing the currency used to USD and another for closing unnecessary pop up windows">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/booking/booking.py" beforeDir="false" afterPath="$PROJECT_DIR$/booking/booking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booking/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/booking/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728577550902</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="defined a method for changing the currency used to USD and another for closing unnecessary pop up windows">
+      <option name="closed" value="true" />
+      <created>1728842230396</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728842230396</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="developed a basic bot that gets a url and tested it using a context manager" />
-    <option name="LAST_COMMIT_MESSAGE" value="developed a basic bot that gets a url and tested it using a context manager" />
+    <MESSAGE value="defined a method for changing the currency used to USD and another for closing unnecessary pop up windows" />
+    <option name="LAST_COMMIT_MESSAGE" value="defined a method for changing the currency used to USD and another for closing unnecessary pop up windows" />
   </component>
 </project>
